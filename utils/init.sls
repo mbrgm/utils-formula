@@ -3,3 +3,4 @@ utils:
     - pkgs:
       - ldnsutils
       - tmux
+      - tree
